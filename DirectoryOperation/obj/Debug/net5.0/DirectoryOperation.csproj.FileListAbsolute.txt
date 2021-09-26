@@ -1,0 +1,16 @@
+C:\Users\Riad\source\repos\FileOperation\DirectoryOperation\bin\Debug\net5.0\DirectoryOperation.exe
+C:\Users\Riad\source\repos\FileOperation\DirectoryOperation\bin\Debug\net5.0\DirectoryOperation.deps.json
+C:\Users\Riad\source\repos\FileOperation\DirectoryOperation\bin\Debug\net5.0\DirectoryOperation.runtimeconfig.json
+C:\Users\Riad\source\repos\FileOperation\DirectoryOperation\bin\Debug\net5.0\DirectoryOperation.runtimeconfig.dev.json
+C:\Users\Riad\source\repos\FileOperation\DirectoryOperation\bin\Debug\net5.0\DirectoryOperation.dll
+C:\Users\Riad\source\repos\FileOperation\DirectoryOperation\bin\Debug\net5.0\ref\DirectoryOperation.dll
+C:\Users\Riad\source\repos\FileOperation\DirectoryOperation\bin\Debug\net5.0\DirectoryOperation.pdb
+C:\Users\Riad\source\repos\FileOperation\DirectoryOperation\obj\Debug\net5.0\DirectoryOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riad\source\repos\FileOperation\DirectoryOperation\obj\Debug\net5.0\DirectoryOperation.AssemblyInfoInputs.cache
+C:\Users\Riad\source\repos\FileOperation\DirectoryOperation\obj\Debug\net5.0\DirectoryOperation.AssemblyInfo.cs
+C:\Users\Riad\source\repos\FileOperation\DirectoryOperation\obj\Debug\net5.0\DirectoryOperation.csproj.CoreCompileInputs.cache
+C:\Users\Riad\source\repos\FileOperation\DirectoryOperation\obj\Debug\net5.0\DirectoryOperation.dll
+C:\Users\Riad\source\repos\FileOperation\DirectoryOperation\obj\Debug\net5.0\ref\DirectoryOperation.dll
+C:\Users\Riad\source\repos\FileOperation\DirectoryOperation\obj\Debug\net5.0\DirectoryOperation.pdb
+C:\Users\Riad\source\repos\FileOperation\DirectoryOperation\obj\Debug\net5.0\DirectoryOperation.genruntimeconfig.cache
+C:\Users\Riad\source\repos\FileOperation\DirectoryOperation\obj\Debug\net5.0\DirectoryOperation.csproj.AssemblyReference.cache
